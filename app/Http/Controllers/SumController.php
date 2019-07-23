@@ -46,3 +46,4 @@ class SumController extends Controller
 
 
   ?>
+  Sua lab 2

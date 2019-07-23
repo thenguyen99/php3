@@ -14,3 +14,4 @@ class StudentController extends Controller
     }
 }
 ?>
+lab3
